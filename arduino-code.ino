@@ -1,8 +1,5 @@
-// Includes the Servo and lcd library
+// Includes the Servo library
 #include <Servo.h> 
-
-
-//Defines lcd pins
 
 
 // Defines Tirg and Echo pins of the Ultrasonic Sensor
