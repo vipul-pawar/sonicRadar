@@ -22,3 +22,6 @@ A radar-style object detection system built using Arduino Uno, HC-SR04 ultrasoni
 ## 📦 Project Structure
 - `/arduino-code/` - Code for Arduino Uno
 - `/processing-code/` - Visualization code
+
+# Screenshots 
+(screenshots/screenshots/WhatsApp%20Image%202025-04-17%20at%207.25.49%20PM.jpeg)
