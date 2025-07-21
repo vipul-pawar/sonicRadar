@@ -24,4 +24,4 @@ A radar-style object detection system built using Arduino Uno, HC-SR04 ultrasoni
 - `/processing-code/` - Visualization code
 
 # Screenshots 
-!(<screenshots/WhatsApp Image 2025-04-17 at 7.05.49 PM.jpeg>)
+![](<screenshots/WhatsApp Image 2025-04-17 at 7.05.49 PM.jpeg>)
